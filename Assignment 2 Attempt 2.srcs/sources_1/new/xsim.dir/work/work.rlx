@@ -1,0 +1,24 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Test_UART.vhd,1715673866,vhdl,,,,test_uart,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Test_UART_baudRateGenerator.vhd,1715673867,vhdl,,,,test_uart_baudrategenerator,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Test_UART_receiver.vhd,1715673865,vhdl,,,,test_uart_receiver,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Test_UART_transmitter.vhd,1715673866,vhdl,,,,test_uart_transmitter,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Test_calculator.vhd,1715673853,vhdl,,,,test_calculator,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Test_character_decoder.vhd,1715673868,vhdl,,,,test_character_decoder,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Test_character_encoder.vhd,1715673869,vhdl,,,,test_character_encoder,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Test_debouncer.vhd,1715673864,vhdl,,,,test_debouncer,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Test_lab_design_top.vhd,1715673864,vhdl,,,,test_lab_design_top,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/UART.vhd,1715479441,vhdl,,,,uart,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/UART_baudRateGenerator.vhd,1715479573,vhdl,,,,uart_baudrategenerator,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/UART_receiver.vhd,1715519203,vhdl,,,,uart_receiver,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/UART_transmitter.vhd,1715479833,vhdl,,,,uart_transmitter,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Utils.vhd,1715479375,vhdl,C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Test_character_encoder.vhd,,,clock_utils;utils,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/calculator.vhd,1715673812,vhdl,,,,calculator,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/character_decoder.vhd,1715493248,vhdl,,,,character_decoder,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/character_encoder.vhd,1715385324,vhdl,,,,character_encoder,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/debouncer.vhd,1715375926,vhdl,,,,debouncer,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/lab_design_top.vhd,1715388687,vhdl,,,,lab_design_top,,,,,,,,
+C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/multi_components.vhd,1715479387,vhdl,C:/Users/alexa/Desktop/VHDL/Assignment 2/Assignment 2 Attempt 2/Assignment 2 Attempt 2.srcs/sources_1/new/Test_character_encoder.vhd,,,multi_components,,,,,,,,

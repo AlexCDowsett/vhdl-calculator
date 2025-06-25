@@ -1,0 +1,49 @@
+# Vivado generated files
+*.wdb
+*.wcfg
+*.jou
+*.log
+*.pb
+*.rpx
+*.rpt
+*.dcp
+*.vdi
+*.vds
+*.xpr
+*.xdc
+*.tcl
+*.bat
+*.sh
+*.js
+
+# Simulation files
+*.wdb
+*.wcfg
+*.vdb
+*.vdi
+
+# Build directories
+*.cache/
+*.hw/
+*.ioplanning/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.utils_1/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
